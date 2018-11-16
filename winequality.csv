@@ -1,4 +1,4 @@
-"","fixed.acidity","volatile.acidity","citric.acid","residual.sugar","chlorides","free.sulfur.dioxide","total.sulfur.dioxide","density","pH","sulphates","alcohol","quality","log.volatile.acidity","log.chlorides","nonfree.sulfur.dioxide","log.density","log.pH","log.sulphates","log.alcohol","quality.binary <- ifelse(quality >= 7, 1, 0)"
+"","fixed.acidity","volatile.acidity","citric.acid","residual.sugar","chlorides","free.sulfur.dioxide","total.sulfur.dioxide","density","pH","sulphates","alcohol","quality","log.volatile.acidity","log.chlorides","nonfree.sulfur.dioxide","log.density","log.pH","log.sulphates","log.alcohol","quality.binary "
 "1",7.4,0.7,0,1.9,0.076,11,34,0.9978,3.51,0.56,9.4,5,-0.356674943938732,-2.57702193869581,23,-0.00220242355520004,1.25561603747777,-0.579818495252942,2.24070968927596,0
 "2",7.8,0.88,0,2.6,0.098,25,67,0.9968,3.2,0.68,9.8,5,-0.127833371509885,-2.32278780031156,42,-0.00320513094894834,1.16315080980568,-0.385662480811985,2.28238238567653,0
 "3",7.8,0.76,0.04,2.3,0.092,15,54,0.997,3.26,0.65,9.8,5,-0.27443684570176,-2.3859667019331,39,-0.00300450902029872,1.18172719537862,-0.430782916092454,2.28238238567653,0
