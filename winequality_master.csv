@@ -1,4 +1,4 @@
-"","fixed.acidity","citric.acid","residual.sugar","free.sulfur.dioxide","log.volatile.acidity","log.chlorides","nonfree.sulfur.dioxide","log.pH","log.sulphates","log.alcohol","quality.binary."
+"","fixed_acidity","citric_acid","residual_sugar","free_sulfur_dioxide","log_volatile_acidity","log_chlorides","nonfree_sulfur_dioxide","log_pH","log_sulphates","log_alcohol","quality_binary"
 "1",7.4,0,1.9,11,-0.356674943938732,-2.57702193869581,23,1.25561603747777,-0.579818495252942,2.24070968927596,0
 "2",7.8,0,2.6,25,-0.127833371509885,-2.32278780031156,42,1.16315080980568,-0.385662480811985,2.28238238567653,0
 "3",7.8,0.04,2.3,15,-0.27443684570176,-2.3859667019331,39,1.18172719537862,-0.430782916092454,2.28238238567653,0
